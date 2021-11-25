@@ -1,0 +1,58 @@
+body{ 
+    background-image: url(pictures/gunwallpaper2.jpg);
+	background-color:transparent;
+	color: #000000;
+    text-align: center;
+	font-family: Verdana, Arial, sans-serif;
+	margin: 35px 0 35px 0;
+
+    background-color: #FFFFFF;
+	padding-top: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	min-width: 500px;
+}
+
+
+nav {
+	background-color: #81A594;
+	height: 40px;
+	clear: left;
+	text-align: center;
+}
+nav ul {
+	font-family: Arial, Verdana;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+}
+nav ul li {
+	display: block;
+	position: relative;
+	float: left;
+}
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	padding: 7px 15px 3px 15px;
+	background: #81A594;
+	color: #000000;  
+	margin-left: 1px;
+	height:30px;
+	width:100px;
+	text-align:center;
+}
+nav ul li a:hover { 
+	background: #000000;
+	color: #ffffff
+}
+
+.welcome{position: relative;
+    
+    background-color: white;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;}
